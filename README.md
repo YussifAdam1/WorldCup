@@ -5,15 +5,6 @@ Analyze FIFA World Cup data from 1930 to 2014 to gain insights into tournament s
 
 ## Insights & Analysis:
 
-### **Attendance Analysis**  
-- **Highest Attendance:** [Insert country/year with highest attendance]  
-- **Lowest Attendance:** [Insert country/year with lowest attendance]  
-
-### **Competition Statistics by Year**  
-- **Total Matches Played:** [Insert total number]  
-- **Total Goals Scored:** [Insert total number]  
-- **Average Goals per Match:** [Insert stat]  
-
 ### **Team & Country Analysis**  
 - **Most World Cup Appearances:**  
   - Brazil (19)  
@@ -35,7 +26,8 @@ Analyze FIFA World Cup data from 1930 to 2014 to gain insights into tournament s
 - **Data Cleaning & Analysis**  
 
 ## Dashboard Preview:
-![World Cup Dashboard](https://github.com/YussifAdam1/WorldCup-Dashboard/blob/main/images/Schermafbeelding_2025-02-08_055249.png)
+(![World Cup Dashboard](https://github.com/YussifAdam1/WorldCup/blob/main/worldcup.png)
+
 
 ## Power BI File:
 Download and explore the Power BI report here:  
