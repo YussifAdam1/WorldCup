@@ -26,7 +26,7 @@ Analyze FIFA World Cup data from 1930 to 2014 to gain insights into tournament s
 - **Data Cleaning & Analysis**  
 
 ## Dashboard Preview:
-(![World Cup Dashboard](https://github.com/YussifAdam1/WorldCup/blob/main/worldcup.png)
+![World Cup Dashboard](https://github.com/YussifAdam1/WorldCup/blob/main/worldcup.png)
 
 
 ## Power BI File:
